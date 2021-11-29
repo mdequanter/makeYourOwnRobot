@@ -14,4 +14,3 @@ Moreover, the step size can be adjusted so that we can work with millimeter accu
 
 As hardware we use the technic blocks from the Heliwi.com construction kit. 
 
-Translated with www.DeepL.com/Translator (free version)
