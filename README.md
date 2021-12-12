@@ -1,6 +1,7 @@
 # makeYourOwnRobot
 In this tutorial we will build a robot that consists of 4 individually proportionally controlled servo motors.
 
+
 Rotate
 Up and down
 Forward and backward
@@ -17,3 +18,6 @@ As hardware we use the technic blocks from the Heliwi.com construction kit.
 ![IMG_1667](https://user-images.githubusercontent.com/74420584/143816689-259b045f-fcbe-4267-91b1-13b8c102e326.JPG)
 
 ![IMG_1663](https://user-images.githubusercontent.com/74420584/143816760-eb6813c2-dac5-4826-bd6f-8ff9d3d79655.JPG)
+
+
+View full building tutorial (in Dutch) on youtube :  https://youtu.be/7bo61gOa5Io
