@@ -19,5 +19,6 @@ As hardware we use the technic blocks from the Heliwi.com construction kit.
 
 ![IMG_1663](https://user-images.githubusercontent.com/74420584/143816760-eb6813c2-dac5-4826-bd6f-8ff9d3d79655.JPG)
 
+All 3D files available on  :  https://www.tinkercad.com/things/7tf1FCzilIL-buildyourownrobot
 
 View full building tutorial (in Dutch) on youtube :  https://youtu.be/7bo61gOa5Io
