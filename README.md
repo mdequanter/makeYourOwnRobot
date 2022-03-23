@@ -25,10 +25,10 @@ View full building tutorial (in Dutch) on youtube :  https://youtu.be/7bo61gOa5I
 
 Partslist :
 
-Bricks : https://www.bol.com/be/nl/p/heliwi-technic-starterset-bouwblokken-uniek-interactief-3d%20platform/9300000017405013/
-Servo shield :  https://www.otronic.nl/a-62711154/arduino-shields/16-kanaals-12-bit-pwm-en-servo-shield-met-i2c-interface-voor-arduino-uno-r3/
-Arduino uno :  https://www.otronic.nl/a-59964800/arduino/uno-r3-arduino-compatible-incl-usb-kabel-en-header-pins/
-Servo's 4 x : https://www.otronic.nl/a-60660463/servos/servo-sg90-micro-180-graden/
+* Bricks : https://www.bol.com/be/nl/p/heliwi-technic-starterset-bouwblokken-uniek-interactief-3d%20platform/9300000017405013/
+* Servo shield :  https://www.otronic.nl/a-62711154/arduino-shields/16-kanaals-12-bit-pwm-en-servo-shield-met-i2c-interface-voor-arduino-uno-r3/
+* Arduino uno :  https://www.otronic.nl/a-59964800/arduino/uno-r3-arduino-compatible-incl-usb-kabel-en-header-pins/
+* Servo's 4 x : https://www.otronic.nl/a-60660463/servos/servo-sg90-micro-180-graden/
 
 
 
