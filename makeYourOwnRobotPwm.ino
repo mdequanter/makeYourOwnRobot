@@ -33,7 +33,7 @@ int ServoUp = 1;
 int ServoGrip = 2;
 int ServoTurn = 3;
 
-int stepSize = 10;
+int stepSize = 3;
 
 
 
@@ -210,7 +210,7 @@ void showNewData() {
         }
         
 
-        if(receivedChar == 97){
+        if(receivedChar == 101){
           Serial.println("grip close");
           posGrip = posGrip+ stepSize;
           if (posGrip>180){
@@ -224,7 +224,7 @@ void showNewData() {
           }
           delay(15);
         }
-        if(receivedChar == 101){
+        if(receivedChar == 97){
           Serial.println("grip open");
           posGrip = posGrip- stepSize;
           if (posGrip<=0){
@@ -238,7 +238,7 @@ void showNewData() {
           servoWrite(ServoGrip, posGrip);
           delay(15);
         }
-        if(receivedChar == 120){
+        if(receivedChar == 122){
           Serial.println("up");
           posUp = posUp+ stepSize;
           if (posUp>180){
@@ -252,7 +252,7 @@ void showNewData() {
           servoWrite(ServoUp, posUp);
           delay(15);
         }
-        if(receivedChar == 122){
+        if(receivedChar == 120){
           Serial.println("down");
           posUp = posUp- stepSize;
           if (posUp<=0){
@@ -294,7 +294,7 @@ void showNewData() {
           servoWrite(ServoTurn, posTurn);
           delay(15);
         }
-        if(receivedChar == 99){
+        if(receivedChar == 119){
           Serial.println("angle up");
           posAngle = posAngle+ stepSize;
           if (posAngle>180){
@@ -308,7 +308,7 @@ void showNewData() {
           servoWrite(ServoAngle, posAngle);
           delay(15);
         }
-        if(receivedChar == 119){
+        if(receivedChar == 99){
           Serial.println("angle down");
           posAngle = posAngle- stepSize;
           if (posAngle<=0){
