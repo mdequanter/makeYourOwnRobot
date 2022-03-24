@@ -15,7 +15,15 @@ Moreover, the step size can be adjusted so that we can work with millimeter accu
 
 As hardware we use the technic blocks from the Heliwi.com construction kit. 
 
+![image](https://user-images.githubusercontent.com/74420584/159957228-82f0167f-54d8-4f28-9113-e88bdff5931e.png)
 ![image](https://user-images.githubusercontent.com/74420584/159955911-21c2bf0d-195e-4226-9951-2a9c9cbe094e.png)
+![image](https://user-images.githubusercontent.com/74420584/159957364-b86a26f1-0bf0-45c1-84d0-080d76d36212.png)
+![image](https://user-images.githubusercontent.com/74420584/159957469-2e00220b-61e3-45da-9015-7714e4caf316.png)
+![image](https://user-images.githubusercontent.com/74420584/159957555-2569107a-ce89-4897-92bb-f3b012492500.png)
+![image](https://user-images.githubusercontent.com/74420584/159957660-9d0d0692-bb68-43ac-8ade-534a0883e028.png)
+![image](https://user-images.githubusercontent.com/74420584/159957749-409c56f2-8412-4337-ada0-4363a3075456.png)
+![image](https://user-images.githubusercontent.com/74420584/159957841-555e1222-7a40-4c7e-8289-3d79ebaf2386.png)
+
 
 
 All 3D files available on  :  https://www.tinkercad.com/things/7tf1FCzilIL-buildyourownrobot
