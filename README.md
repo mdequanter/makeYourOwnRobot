@@ -17,18 +17,18 @@ As hardware we use the technic blocks from the Heliwi.com construction kit.
 
 You can connect via Putty to your arduino com port.  With following buttons you can control the robot:
 
-z: up
-x: down
-q: left
-d: right
-w : angle further
-c: angle closer
-a: close gripper
-e: open gripper
-r: start recording (again r to stop recording)
-p: play recorded
-f: step size plus
-g: stepsize min
+* z: up
+* x: down
+* q: left
+* d: right
+* w : angle further
+* c: angle closer
+* a: close gripper
+* e: open gripper
+* r: start recording (again r to stop recording)
+* p: play recorded
+* f: step size plus
+* g: stepsize min
 
 
 Construction pictures :
