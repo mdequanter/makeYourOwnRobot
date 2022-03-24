@@ -15,6 +15,22 @@ Moreover, the step size can be adjusted so that we can work with millimeter accu
 
 As hardware we use the technic blocks from the Heliwi.com construction kit. 
 
+You can connect via Putty to your arduino com port.  With following buttons you can control the robot:
+
+z: up
+x: down
+q: left
+d: right
+w : angle further
+c: angle closer
+a: close gripper
+e: open gripper
+r: start recording (again r to stop recording)
+p: play recorded
+f: step size plus
+g: stepsize min
+
+
 Construction pictures :
 
 ![image](https://user-images.githubusercontent.com/74420584/159957228-82f0167f-54d8-4f28-9113-e88bdff5931e.png)
