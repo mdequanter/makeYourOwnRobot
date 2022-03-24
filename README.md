@@ -19,7 +19,7 @@ As hardware we use the technic blocks from the Heliwi.com construction kit.
 
 ![IMG_1663](https://user-images.githubusercontent.com/74420584/143816760-eb6813c2-dac5-4826-bd6f-8ff9d3d79655.JPG)
 
-![image](https://user-images.githubusercontent.com/74420584/159955628-99c7a0cf-8ffa-40ae-b257-5ae22176eb4d.png)
+![image](https://user-images.githubusercontent.com/74420584/159955911-21c2bf0d-195e-4226-9951-2a9c9cbe094e.png)
 
 
 All 3D files available on  :  https://www.tinkercad.com/things/7tf1FCzilIL-buildyourownrobot
