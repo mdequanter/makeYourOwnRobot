@@ -15,6 +15,8 @@ Moreover, the step size can be adjusted so that we can work with millimeter accu
 
 As hardware we use the technic blocks from the Heliwi.com construction kit. 
 
+Construction pictures :
+
 ![image](https://user-images.githubusercontent.com/74420584/159957228-82f0167f-54d8-4f28-9113-e88bdff5931e.png)
 ![image](https://user-images.githubusercontent.com/74420584/159955911-21c2bf0d-195e-4226-9951-2a9c9cbe094e.png)
 ![image](https://user-images.githubusercontent.com/74420584/159957364-b86a26f1-0bf0-45c1-84d0-080d76d36212.png)
@@ -23,6 +25,9 @@ As hardware we use the technic blocks from the Heliwi.com construction kit.
 ![image](https://user-images.githubusercontent.com/74420584/159957660-9d0d0692-bb68-43ac-8ade-534a0883e028.png)
 ![image](https://user-images.githubusercontent.com/74420584/159957749-409c56f2-8412-4337-ada0-4363a3075456.png)
 ![image](https://user-images.githubusercontent.com/74420584/159957841-555e1222-7a40-4c7e-8289-3d79ebaf2386.png)
+![image](https://user-images.githubusercontent.com/74420584/159958116-3f1f8e64-b248-4d85-be88-a5a2d1e5731c.png)
+![image](https://user-images.githubusercontent.com/74420584/159958195-6c6111ce-0bc0-4c3e-8748-84f8d8047224.png)
+![image](https://user-images.githubusercontent.com/74420584/159958253-4d25011c-2c97-4ed8-b518-b88405c9f58e.png)
 
 
 
