@@ -49,9 +49,21 @@ Construction pictures :
 
 All 3D files available on  :  https://www.tinkercad.com/things/7tf1FCzilIL-buildyourownrobot
 
-View full building tutorial (in Dutch) on youtube :  https://youtu.be/7bo61gOa5Io
+View full building tutorial (in Dutch) on youtube :  
 
-Partslist :
+Part 1/4
+https://youtu.be/f0egH7m7BM8
+part 2/4
+https://youtu.be/kwoBn4rjcvk
+Part 3/4
+https://youtu.be/qGZcOMYqGak
+Part 4/4
+https://youtu.be/tQqo7cftUFY
+
+Partslis/4t :
+
+Part 3
+
 
 * Bricks : https://www.bol.com/be/nl/p/heliwi-technic-starterset-bouwblokken-uniek-interactief-3d%20platform/9300000017405013/
 * Servo shield :  https://www.otronic.nl/a-62711154/arduino-shields/16-kanaals-12-bit-pwm-en-servo-shield-met-i2c-interface-voor-arduino-uno-r3/
